@@ -2,7 +2,7 @@
 Library    SeleniumLibrary
 Documentation    tutorial click radio buttons and check boxe in a website
 *** Variables ***
-${browser}      headlessChrome
+${browser}      Chrome
 ${link}         https://www.tutorialspoint.com/selenium/selenium_automation_practice.htm
 ${link1}         https://www.youtube.com
 *** Keywords ***
