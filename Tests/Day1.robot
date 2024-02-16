@@ -2,7 +2,7 @@
 Library    SeleniumLibrary
 
 *** Variables ***
-${browser}      headlessChrome
+${browser}      Chrome
 ${link}         https://katalon-demo-cura.herokuapp.com/
 ${Username}     John Doe
 ${Password}     ThisIsNotAPassword

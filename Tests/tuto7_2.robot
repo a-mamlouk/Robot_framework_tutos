@@ -3,7 +3,7 @@ Library    SeleniumLibrary
 Documentation    switch between browsers
 
 *** Variables ***
-${browser}      headlessChrome
+${browser}      Chrome
 
 ${link}         https://www.google.com
 ${link2}         https://www.bing.com

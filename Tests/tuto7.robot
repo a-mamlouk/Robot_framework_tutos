@@ -3,7 +3,7 @@ Library    SeleniumLibrary
 Documentation    switich between windows
 
 *** Variables ***
-${browser}      headlessChrome
+${browser}      Chrome
 ${link}         https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 
 *** Keywords ***

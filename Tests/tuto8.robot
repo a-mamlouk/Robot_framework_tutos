@@ -1,7 +1,7 @@
 *** Settings ***
 Library    SeleniumLibrary
 *** Variables ***
-${browser}      headlessChrome
+${browser}      Chrome
 ${link}         https://www.google.com
 
 *** Keywords ***

@@ -1,7 +1,7 @@
 *** Settings ***
 Library    SeleniumLibrary
 *** Variables ***
-${browser}      headlessChrome
+${browser}      Chrome
 ${link}         https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 
 *** Keywords ***
